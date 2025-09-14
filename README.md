@@ -1,10 +1,19 @@
-# Hi there, I'm Dhananjay 👋  
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/Dhananjay2809)
 
-## 🚀 About Me  
-🎓 Final-year **B.Tech IT student** at GL Bajaj Institute of Technology and Management, Greater Noida.  
-💻 Skilled in **Full-Stack Development (MERN)** and **Data Structures & Algorithms in C++**.  
-🔍 Exploring **Cloud Computing, AI, and Cybersecurity**, always eager to learn new technologies.  
-🌱 Passionate about coding, problem-solving, and building impactful projects.  
+<h1 align="center">💫 Hi 👋, I'm Dhananjay Pratap Singh</h1>
+<h3 align="center">B.Tech IT Final Year Student | Full Stack Developer | GL Bajaj, Greater Noida</h3>
+
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/main/me.gif">
+
+- 🔭 I’m currently working on **Full-Stack Projects (MERN Stack)**  
+- 🌱 I’m currently preparing for **Placements | DSA in Python & C++**  
+- 💬 Ask me about **React.js, Node.js, MongoDB, C++ DSA**  
+- 📫 How to reach me: **[pratapsinghdhananjay7@gmail.com](mailto:pratapsinghdhananjay7@gmail.com)**  
+- ⚡ Fun fact: **I love turning coffee ☕ into code 🚀**  
+
+[![](https://visitcount.itsvg.in/api?id=Dhananjay2809&icon=0&color=0)](https://visitcount.itsvg.in)  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhananjay2809&label=Profile%20views&color=0e75b6&style=flat" alt="Dhananjay2809" /> </p>  
 
 ---
 
@@ -14,27 +23,19 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
----
-
 ### Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
----
-
 ### Backend  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 
----
-
 ### Databases  
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-
----
 
 ### Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
@@ -63,6 +64,11 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhananjay2809&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhananjay2809&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhananjay2809&theme=tokyonight)  
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dhananjay2809&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="Dhananjay2809" /></a> </p>  
 
 ---
 
