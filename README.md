@@ -14,37 +14,7 @@
 - **Backend:** Node.js, Express.js  
 - **Databases:** SQL, MongoDB  
 - **Tools:** Git, GitHub  
-- **OS:** Ubuntu, Windows  
-
----
-
-## 🎓 Certifications  
-- 📜 Cisco Certified Network Associate (CCNA) – Cisco Networking Academy (2025)  
-- 📜 Python Programming Essentials – Cisco Networking Academy (2025)  
-- 📜 Cybersecurity Essentials – Cisco Networking Academy (2025)  
-
----
-
-## 💼 Internship Experience  
-**Frontend Developer Intern – Salesqueen Software Solutions (Remote)**  
-_June 2024 – October 2024_  
-- Developed a **License Management System** to store and manage license data.  
-- Enabled secure **file viewing and downloading** for users.  
-
----
-
-## 🛠️ Projects  
-### 🔗 [URL Shortener – Full-Stack Web Application](https://github.com/Dhananjay2809)  
-Tech Stack: Node.js, MongoDB, React, TailwindCSS  
-- Built a **URL shortening service** generating unique short links.  
-- Implemented **redirection logic** and persistent storage using MongoDB.  
-- Developed **RESTful APIs** with a clean, responsive frontend.  
-
-### 🗂️ [Sarkari Scheme Organizer – Web App](https://github.com/Dhananjay2809/Sarakari-scheme)  
-Tech Stack: React, Tailwind CSS, HTML  
-- Categorized **government schemes** by state, category, and central schemes.  
-- Designed a **responsive UI** for seamless browsing across devices.  
-
+- **OS:** Ubuntu, Windows     
 ---
 
 ## 📊 Coding Profiles  
