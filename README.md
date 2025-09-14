@@ -6,10 +6,10 @@
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/main/me.gif">
 
 - 🔭 I’m currently working on **Full-Stack Projects (MERN Stack)**  
-- 🌱 I’m currently preparing for **Placements (Cognizant, etc.)**  
+- 🌱 I’m currently preparing for **Placements **  
 - 💬 Ask me about **React.js, Node.js, MongoDB, C++ DSA, Python**  
 - 📫 How to reach me: **[pratapsinghdhananjay7@gmail.com](mailto:pratapsinghdhananjay7@gmail.com)**  
-- ⚡ Fun fact: **I love turning coffee ☕ into code 🚀**  
+- ⚡ Fun fact: **I love turning choti advance 🚬 into code 🚀**  
 
 [![](https://visitcount.itsvg.in/api?id=Dhananjay2809&icon=0&color=0)](https://visitcount.itsvg.in)  
 
@@ -61,14 +61,6 @@
 <img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhananjay2809&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 </div>
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dhananjay2809&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
