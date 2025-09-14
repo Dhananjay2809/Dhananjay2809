@@ -1,24 +1,26 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/Dhananjay2809)
 
 <h1 align="center">💫 Hi 👋, I'm Dhananjay Pratap Singh</h1>
-<h3 align="center">B.Tech IT Final Year Student | Full Stack Developer | GL Bajaj, Greater Noida</h3>
+<h3 align="center">B.Tech CSE Final Year Student | Full Stack Developer | GL Bajaj, Greater Noida</h3>
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/main/me.gif">
 
-- 🔭 I’m currently working on **Full-Stack Projects (MERN Stack)**  
-- 🌱 I’m currently preparing for **Placements **  
-- 💬 Ask me about **React.js, Node.js, MongoDB, C++ DSA, Python**  
+🚀 MERN Stack Developer | DSA in C++ & Python | Final-year CSE Student  
+
+💻 Full-Stack Developer | Problem Solver | Always Learning 🌱  
+
+⚡ Passionate Coder | MERN | DSA | Building scalable web apps  
+
+🌍 IT Student | Developer | Exploring AI, Cloud & Cybersecurity  
+
+🐙 Open-Source Enthusiast | MERN Stack | DSA Lover  
+
 - 📫 How to reach me: **[pratapsinghdhananjay7@gmail.com](mailto:pratapsinghdhananjay7@gmail.com)**  
 - ⚡ Fun fact: **I love turning choti advance 🚬 into code 🚀**  
 
 [![](https://visitcount.itsvg.in/api?id=Dhananjay2809&icon=0&color=0)](https://visitcount.itsvg.in)  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhananjay2809&label=Profile%20views&color=0e75b6&style=flat" alt="Dhananjay2809" /> </p>  
-
----
-
-## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dhananjay2809&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Dhananjay2809" /></a> </p>
 
 ---
 
@@ -51,14 +53,9 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhananjay2809&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dhananjay2809&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhananjay2809&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dhananjay2809&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dhananjay2809&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=Dhananjay2809&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhananjay2809&theme=radical">
-<img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhananjay2809&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Dhananjay2809&show_icons=true&theme=radical" />
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhananjay2809&theme=radical" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhananjay2809&layout=compact&theme=radical" />
 
 </div>
 
