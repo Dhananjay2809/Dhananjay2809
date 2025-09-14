@@ -1,7 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/Dhananjay2809)
 
 <h1 align="center">💫 Hi 👋, I'm Dhananjay Pratap Singh</h1>
-<h3 align="center">B.Tech CSE Final Year Student | Full Stack Developer | GL Bajaj, Greater Noida</h3>
+<h3 align="center">B.Tech CSE Final Year Student | Full Stack Developer |</h3>
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/main/me.gif">
 
@@ -16,7 +16,7 @@
 🐙 Open-Source Enthusiast | MERN Stack | DSA Lover  
 
 - 📫 How to reach me: **[pratapsinghdhananjay7@gmail.com](mailto:pratapsinghdhananjay7@gmail.com)**  
-- ⚡ Fun fact: **I love turning choti advance 🚬 into code 🚀**  
+- ⚡ Fun fact: **I love turning chhoti advance 🚬 into code 🚀**  
 
 [![](https://visitcount.itsvg.in/api?id=Dhananjay2809&icon=0&color=0)](https://visitcount.itsvg.in)  
 
