@@ -29,6 +29,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhananjay2809)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=black)](https://leetcode.com/u/pratapsinghdhananjay7/)  
 [![CodeChef](https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/pratapsinghdha)  
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](...)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](...)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](...)
+
 
 ---
 
